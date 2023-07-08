@@ -14,7 +14,7 @@
     "dygraphs": "1.1.1",
     "firebase": "3.7.8",
     "font-awesome": "4.6.3",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jquery-migrate": "1.4.1",
     "jstree": "3.3.7",
     "marked": "^0.6.2",
